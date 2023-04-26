@@ -4,6 +4,6 @@ pkg install git
 
 pkg install python
 
-Paste git clone 
+git clone https://github.com/FaceLessHacker999/dragon
 
 dragon.py 
